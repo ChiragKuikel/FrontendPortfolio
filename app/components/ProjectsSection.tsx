@@ -2,7 +2,7 @@
 
 import Image from 'next/image';
 import { motion } from 'framer-motion';
-import { video } from 'framer-motion/client';
+//import { video } from 'framer-motion/client';
 
 const projects = [
 		{
